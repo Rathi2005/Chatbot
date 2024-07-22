@@ -11,10 +11,10 @@ This Streamlit application allows you to ask questions and receive responses gen
 
 ### Requirements:
 
-Python 3.x
-Streamlit (pip install streamlit)
-Google Generative AI library (pip install google-generativeai)
-dotenv library (pip install python-dotenv)
+Python 3.x,
+ Streamlit (pip install streamlit),
+ Google Generative AI library (pip install google-generativeai),
+ dotenv library (pip install python-dotenv)
 
 ### Setup:
 
@@ -29,6 +29,9 @@ dotenv library (pip install python-dotenv)
 ### Usage:
 
 Run the application using streamlit run main.py.
+
 Type your question in the "Input:" text box.
+
 Click "Ask the Question" button.
+
 The application will generate a response based on your question using the Gemini-pro model.
