@@ -4,7 +4,9 @@ This Streamlit application allows you to ask questions and receive responses gen
 ### Features:
 
 1)User-friendly interface for text input.
+
 2)Generates responses using the powerful Gemini-pro model.
+
 3)Integrates seamlessly with Streamlit for a web-based experience.
 
 ### Requirements:
